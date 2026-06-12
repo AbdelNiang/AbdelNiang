@@ -37,10 +37,6 @@ Optimization of knee flexion-extension movements using Gaussian Processes and Bo
 
 Implementation of FFT-based methods for signal and image processing.
 
-### Deep Learning from Scratch
-
-Building neural networks and optimization algorithms from first principles.
-
 ## Technical Skills
 
 ### Programming Languages
