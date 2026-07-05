@@ -4,7 +4,7 @@ M.Sc. Student in Mathematics | Machine Learning | Optimization | Scientific Comp
 
 ## About Me
 
-I am a Master's student in Mathematics with interests in machine learning, optimization, probability, partial differential equations, and scientific computing.
+I am a Master's student in Mathematics at "Université Paris Cité" with interests in machine learning, optimization, probability, partial differential equations, and scientific computing.
 
 My work focuses on mathematical modeling, numerical methods, statistical learning, and AI-driven optimization.
 
@@ -28,10 +28,6 @@ Research project motivated by cryo-electron microscopy (Cryo-EM). Study of inver
 ### SIR/SEIR Models with Dirichlet Series
 
 Semi-analytical methods for epidemiological models using Dirichlet series expansions.
-
-### Bayesian Optimization for Biomechanics
-
-Optimization of knee flexion-extension movements using Gaussian Processes and BoTorch.
 
 ### Signal Processing and Fourier Analysis
 
