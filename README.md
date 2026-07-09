@@ -11,23 +11,17 @@ My work focuses on mathematical modeling, numerical methods, statistical learnin
 ## Research Interests
 
 * Machine Learning
-* Deep Learning
 * Mathematical Optimization
 * Probability and Stochastic Processes
 * Partial Differential Equations
 * Statistical Learning Theory
 * Scientific Computing
-* Bayesian Optimization
 
 ## Current Projects
 
 ### Hidden Variable Inverse Problems
 
 Research project motivated by cryo-electron microscopy (Cryo-EM). Study of inverse problems with latent variables, focusing on maximum likelihood estimation, the Expectation-Maximization (EM) algorithm, and statistical error analysis
-
-### SIR/SEIR Models with Dirichlet Series
-
-Semi-analytical methods for epidemiological models using Dirichlet series expansions.
 
 ### Signal Processing and Fourier Analysis
 
@@ -53,7 +47,6 @@ Implementation of FFT-based methods for signal and image processing.
 
 * PyTorch
 * Scikit-Learn
-* BoTorch
 
 ### Tools
 
