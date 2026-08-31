@@ -4,7 +4,7 @@ M.Sc. Student in Mathematics | Machine Learning | Optimization | Scientific Comp
 
 ## About Me
 
-I am a Master's student in Mathematics at "Université Paris Cité" with interests in machine learning, optimization, probability, partial differential equations, and scientific computing.
+I am a Master's II student in Mathematics at "Université Paris Cité" with interests in machine learning, optimization, probability, partial differential equations, and scientific computing.
 
 My work focuses on mathematical modeling, numerical methods, statistical learning, and AI-driven optimization.
 
