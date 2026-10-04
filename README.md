@@ -1,65 +1,48 @@
 # Niokhobaye Abdel Niang
 
-M.Sc. Student in Mathematics | Machine Learning | Optimization | Scientific Computing
+M.Sc. student in mathematics | scientific computing | optimization | machine learning
 
-## About Me
+## About me
 
-I am a Master's II student in Mathematics at "Université Paris Cité" with interests in machine learning, optimization, probability, partial differential equations, and scientific computing.
+I am a Master 2 student in mathematics at Université Paris Cité, with interests in inverse problems, numerical optimization, and statistical learning.
 
-My work focuses on mathematical modeling, numerical methods, statistical learning, and AI-driven optimization.
+My current work focuses on mathematically grounded numerical methods, reproducible experiments, and clear scientific software.
 
-## Research Interests
+## Research interests
 
-* Machine Learning
-* Mathematical Optimization
-* Probability and Stochastic Processes
-* Partial Differential Equations
-* Statistical Learning Theory
-* Scientific Computing
+- Inverse problems
+- Optimization
+- Scientific computing
+- Statistical learning
+- Probabilistic modeling
 
-## Current Projects
+## Selected projects
 
 ### Hidden Variable Inverse Problems
 
-Research project motivated by cryo-electron microscopy (Cryo-EM). Study of inverse problems with latent variables, focusing on maximum likelihood estimation, the Expectation-Maximization (EM) algorithm, and statistical error analysis
+Repository: https://github.com/AbdelNiang/Hidden_Variable_Inverse_Problems_projet_em_M1_S2
 
-### Signal Processing and Fourier Analysis
+Status: active and validated. This project studies a latent-variable EM formulation for inverse problems, with explicit adjoint checks, regularized updates, and deterministic numerical validation.
 
-Implementation of FFT-based methods for signal and image processing.
+### Scientific Python portfolio
 
-## Technical Skills
+Repository: https://github.com/AbdelNiang/niokhobaye-scientific-python
 
-### Programming Languages
+Status: active and intentionally compact. This work focuses on reproducible numerical methods and small, testable scientific examples.
 
-* Python
-* C
-* C++
-* Bash
+### projet-m1
 
-### Scientific Computing
+Repository: https://github.com/AbdelNiang/projet-m1
 
-* NumPy
-* SciPy
-* Pandas
-* Matplotlib
-
-### Machine Learning
-
-* PyTorch
-* Scikit-Learn
-
-### Tools
-
-* Git
-* Linux
-* LaTeX
+Status: historical academic material kept for traceability. It is useful as an archive of coursework, but it is not the main active project in this portfolio.
 
 ## Education
 
-Master's Degree in Mathematics
+Master 2 in Mathematics, Université Paris Cité
 
 ## Contact
 
-* LinkedIn: linkedin.com/in/niokhobaye-abdel-niang-728863285
-* Email: niangniokhobayeabdelaziz@gmail.com
-* Academic Email: niokhobaye-abdel-azi@etu.u-paris.fr
+- Email: niangniokhobayeabdelaziz@gmail.com
+- Academic email: niokhobaye-abdel-azi@etu.u-paris.fr
+- LinkedIn: https://www.linkedin.com/in/niokhobaye-abdel-niang-728863285
+
