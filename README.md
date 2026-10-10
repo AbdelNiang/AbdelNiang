@@ -38,9 +38,7 @@ Status: active, minimal executable baseline. This project implements SIR/SEIR RK
 
 ### projet-m1 archive
 
-Repository: https://github.com/AbdelNiang/projet-m1
-
-Status: historical academic archive. It keeps the project documentation and results for traceability, but it is not the main active implementation of the EM work.
+Status: private historical academic archive. Its materials are retained for traceability; it is not the main active implementation of the EM work.
 
 ### Attribution
 
